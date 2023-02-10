@@ -1,0 +1,18 @@
+README Documentation for HW1
+
+Ethan Yeung
+CSE 101, Fall 2022
+
+Usage
+Navigate to the appropriate directory in terminal.
+Run the "make" command to compile the code.
+Execute the program by running the command "./bard <input_file> <output_file>".
+
+The program stores all the words from Shakespeare's works, interprets the queries  
+that are in the input file, and outputs the responses to the output file.
+
+File description
+Makefile: contains the commands to compile the program
+bard.cpp: contains the main function to run the program
+linkedlist.cpp: contains the implementation of the LinkedList class
+linkedlist.h: contains the function declarations for LinkedList
